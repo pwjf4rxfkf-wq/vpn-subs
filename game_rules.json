@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "xboxlive.com",
+        "xbox.com",
+        "xboxservices.com",
+        "xboxab.com",
+        "xboxab.net",
+        "playfabapi.com",
+        "playfab.com"
+      ]
+    }
+  ]
+}
